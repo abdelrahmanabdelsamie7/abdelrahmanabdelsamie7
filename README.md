@@ -24,9 +24,9 @@
 <p align="left">
 <a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrahmanabdelsamie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelrahman abdelsamie hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman abdelsamie hussain" height="30" width="40" /></a>
-<a href="https://fb.com/abdelrahman abdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman abdelsamie" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman abdelsamie" height="30" width="40" /></a>
 <a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrahman_marey98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abdelrhmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdelrhmanabdelsamie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdelrhmanabdelsamie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
