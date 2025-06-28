@@ -11,8 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdelrahmanabdelsamie.netlify.app/Hero](https://abdelrahmanabdelsamie.netlify.app/Hero)
 
-- 📝 I regularly write articles on [(Not yet – coming soon 😉)]((Not yet – coming soon 😉))
-
+- 📝 I regularly write articles on [(Not yet – coming soon 😉)]
 - 💬 Ask me about **Angular, TypeScript, Front-End Architecture, Teaching Methods.**
 
 - 📫 How to reach me **abdelrhmanabdelsamie@gmail.com**
