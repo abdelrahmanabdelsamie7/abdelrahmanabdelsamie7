@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Abdelsamie</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Angular Developer</h3>
 
-- 🔭 I’m currently working on [An advanced E-commerce platform for clothing**, focusing on a seamless user experience and modern UI. It’s one of the most powerful projects I’ve built so far.](Repo is private)
+- 🔭 I’m currently working on[An advanced E-commerce platform for clothing , focusing on a seamless user experience and modern UI. It’s one of the most powerful projects I’ve built so far.](Repo is private)
 
 - 🌱 I’m currently learning **Angular, Laravel , REST API integration, and Authentication with JWT.**
 
