@@ -1,37 +1,39 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Abdelsamie</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Angular Developer</h3>
+<h3 align="center">
+💻 Full-Stack Web Developer | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Angular Developer | 🚀 Founder @ <a href="https://kerneltech.site" target="_blank">Kernel Tech</a>
+</h3>
 
-- 🔭 I’m currently working on[An advanced E-commerce platform for clothing , focusing on a seamless user experience and modern UI. It’s one of the most powerful projects I’ve built so far.](Repo is private)
+- 🔭 I recently finished building [Barcode Store – An advanced E-commerce platform for clothing](https://barcodestore.store) – focusing on a seamless user experience and modern UI.  
+- 🚧 I’m currently working on **Code Spark Academy LMS** – a learning management system for managing courses, students, and instructors.  
+- 🌱 I’m currently learning **Angular, Laravel, REST API integration, and Authentication with JWT.**  
+- 👯 I’m looking to collaborate on [MediCare](https://github.com/abdelrahmanabdelsamie7/MediCare) – A smart healthcare platform connecting patients and doctors.  
+- 🤝 I’m looking for help with **Turning business ideas into real web apps** – e-commerce, portfolios, booking systems, and more.  
+- 👨‍💻 All of my projects are available on my [Portfolio Website](https://abdelrahmanabdelsamie.netlify.app/Hero)  
+- 📝 I regularly write articles – *(coming soon 😉)*  
+- 💬 Ask me about **Angular, TypeScript, Front-End Architecture, Teaching Methods.**  
+- 📫 Reach me at **abdelrhmanabdelsamie@gmail.com**  
+- 📄 Know about my experiences on [My Resume](https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing)  
+- ⚡ Fun fact: **I explain programming concepts better than I explain memes 😄**
 
-- 🌱 I’m currently learning **Angular, Laravel , REST API integration, and Authentication with JWT.**
-
-- 👯 I’m looking to collaborate on [MediCare – A smart web platform that connects patients and doctors through online booking, clinic management, and medical profiles. I’m looking for collaborators who are passionate about building healthcare tech solutions with a clean user experience and solid backend structure.](https://github.com/abdelrahmanabdelsamie7/MediCare)
-
-- 🤝 I’m looking for help with [Helping anyone turn their business idea into a real web application. Whether it's an e-commerce site, portfolio, or booking system – I can bring it to life.](..)
-
-- 👨‍💻 All of my projects are available at [https://abdelrahmanabdelsamie.netlify.app/Hero](https://abdelrahmanabdelsamie.netlify.app/Hero)
-
-- 📝 I regularly write articles on [(Not yet – coming soon 😉)]
-- 💬 Ask me about **Angular, TypeScript, Front-End Architecture, Teaching Methods.**
-
-- 📫 How to reach me **abdelrhmanabdelsamie@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing](https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing)
-
-- ⚡ Fun fact **I explain programming concepts better than I explain memes 😄**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrahmanabdelsamie" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman abdelsamie hussain" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman abdelsamie" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrahman_marey98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdelrhmanabdelsamie" height="30" width="40" /></a>
+<a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- same icons you had (Angular, Laravel, Docker, etc.) -->
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanabdelsamie7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&" alt="abdelrahmanabdelsamie7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&" alt="streak-stats" /></p>
