@@ -23,9 +23,9 @@
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat)&nbsp;
-![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Signals](https://img.shields.io/badge/-signal-05122A?style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/-sql-05122A?style=flat)&nbsp;
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-05122A?style=flat)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat)&nbsp;
