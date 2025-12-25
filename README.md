@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-Sohag, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrahmanabdelsamie@gmail.com</a> | 
+Cairo, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrahmanabdelsamie@gmail.com</a> | 
 <a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="_blank">LinkedIn</a>
 </p>
 
@@ -101,21 +101,10 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
   <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="Abdelrahman GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-stats-eta-two-74.vercel.app/?user=abdelrahmanabdelsamie7&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Most Used Repo -->
-  <img src="https://github-readme-stats-eta-two-74.vercel.app/api/pin/?username=abdelrahmanabdelsamie7&repo=barcodestore.store&theme=radical" alt="Most Used Repo" />
-</p>
-
 ---
 
-### 🔥 Let's Connect
+### <h3 align="left">Connect with me:</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/abdelrahmanabdelsamie7)  
-[![Code Spark](https://img.shields.io/badge/-CodeSpark-05122A?style=flat&logo=codeigniter)](https://www.codespark-eg.com)  
-[![Kernel Tech](https://img.shields.io/badge/-KernelTech-05122A?style=flat&logo=visual-studio)](https://www.kerneltech.site)
+<p align="left"> <a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> </p>
+
+---
