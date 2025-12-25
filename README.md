@@ -91,7 +91,8 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Abdelsamie" /></p>
+<p><img align="center" src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Abdelsamie" /></p>
 
-![Abdelrahman GitHub Stats](https://github-readme-stats-git-master-abdelrahmanabdelsamie7s-projects.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-yourusername.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical)
+![Abdelrahman GitHub Stats](https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical)
