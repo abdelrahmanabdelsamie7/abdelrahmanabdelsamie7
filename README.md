@@ -1,23 +1,73 @@
-<h1 align="center">👋 Hi, I'm Abdelrahman Abdelsamie</h1>
+<h1 align="center">👋 Hi, I'm Abdelrahman Abdelsamie Hussain</h1>
 <h3 align="center">
-💻 Full-Stack Web Developer | 👨‍🏫 Instructor @<a href="https://www.codespark-eg.com" target="blank"> Code Spark </a> | 🚀 Technical Lead @<a href="https://www.kerneltech.site" target="blank"> Kernel Tech </a> 
-  | ⚡Freelance Developer
+💻 Full Stack Web Developer (Laravel | Angular) | 🚀 Technical Lead @ <a href="https://www.kerneltech.site" target="_blank">Kernel Tech</a> | 👨‍🏫 Instructor @ <a href="https://www.codespark-eg.com" target="_blank">Code Spark</a>
 </h3>
 
-- I recently finished building **Barcode Store - E-commerce Platform** [cite: 25, 27] (Laravel, Angular, MySQL) [cite_start]– deployed and serving customers[cite: 27].
-- [cite_start]🚧 I’m currently working on **Code Spark Platform** – scaling features, including authentication, roles & permissions, and course management for production deployment in Egypt & Saudi Arabia[cite: 16, 17].
-- I’m looking to collaborate on [MediCare](https://github.com/abdelrahmanabdelsamie7/MediCare) – A smart healthcare platform connecting patients and doctors.  
-- I’m looking for help with **Turning business ideas into real web apps** – e-commerce, portfolios, booking systems, and more.  
-- All of my projects are available on my [Portfolio Website](https://abdelrahmanabdelsamie.netlify.app/Hero)  
-- I regularly write articles – *(coming soon 😉)*  
-- Ask me about **Laravel, Angular, TypeScript, Clean Architecture, SOLID Principles, and developing educational platforms.**
-- Reach me at **abdelrhmanabdelsamie@gmail.com**  
-- Know about my experiences on [My Resume](https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing)  
-- Fun fact: **I explain programming concepts better than I explain memes 😄**
+<p align="center">
+Sohag, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrhmanabdelsamie@gmail.com</a> | 
+<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/abdelrahmanabdelsamie7" target="_blank">GitHub</a>
+</p>
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 📝 Summary
+Full Stack Web Developer with 4+ years of experience building **production-grade web applications** using Laravel and Angular.  
+Key contributor to educational platforms serving users in **Egypt and Saudi Arabia**, focusing on **clean architecture, scalable systems, and mentoring developers**.
+
+---
+
+### 🌟 Highlights
+- Mentored and instructed students through **real-world, production-focused curricula**.
+- Strong experience **bridging technical development and knowledge sharing**.
+- Led development of **educational and e-commerce platforms** from planning to deployment.
+
+---
+
+### 🛠 Technical Skills
+
+**Backend:** PHP, Laravel, REST APIs  
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap  
+**Database:** MySQL, SQL  
+**Tools:** Git, GitHub, Docker, Postman, PHPUnit  
+**Concepts:** OOP, SOLID, MVC, Design Patterns, Clean Architecture  
+**Other Languages:** C++, Python  
+
+---
+
+### 💼 Experience
+
+**Full Stack Developer & Instructor – Code Spark Platform** | Oct 2023 – Present  
+- Built and maintained a **scalable educational platform** with production deployments in Egypt & Saudi Arabia.  
+- Developed core features: authentication, roles & permissions, dashboards, course management.  
+- Mentored students across **full-stack diplomas**.  
+[codespark-eg.com](https://codespark-eg.com) | [codespark-sa.com](https://codespark-sa.com)
+
+**Technical Lead – Kernel Tech Platform** | Jul 2025 – Present  
+- Led development of a **free educational platform** with mentor-driven content.  
+- Oversaw delivery of web and mobile applications from planning to deployment.  
+[kerneltech.site](https://www.kerneltech.site)
+
+**Frontend Developer (Freelance) – Rahmo (UAE)** | Apr 2024 – Present  
+- Developed modular dashboards using **Angular (ABP Framework)**.
+
+---
+
+### 📂 Projects
+
+**Barcode Store – E-commerce Platform**  
+- Built and deployed a **production e-commerce system** with admin dashboard and order management.  
+[barcodestore.store](https://barcodestore.store)  
+**Tech:** Laravel, Angular, MySQL
+
+**Wonder Makers Project – Backend Developer**  
+- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
+[wondermakers-eg.com](https://wondermakers-eg.com)  
+**Tech:** PHP, Laravel, MySQL
+
+---
+
+### 🛠 Tech Stack
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -26,35 +76,22 @@
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-05122A?style=flat&logo=phpunit)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jwt)&nbsp;
-![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+### 📊 GitHub Stats
+
+<p align="center">
+[![Abdelrahman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=dark)](https://github.com/abdelrahmanabdelsamie7)
 </p>
-
----
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&" alt="streak-stats" /></p>
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&theme=dark)](https://github.com/abdelrahmanabdelsamie7/github-readme-streak-stats)
+</p>
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=dark)
+</p>
