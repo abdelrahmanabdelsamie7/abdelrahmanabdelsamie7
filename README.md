@@ -19,8 +19,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
