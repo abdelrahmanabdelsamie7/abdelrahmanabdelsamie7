@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman Abdelsamie Hussain</h1>
 <h3 align="center">
-💻 Full Stack Web Developer (Laravel | Angular) | 🚀 Technical Lead @<a href="https://www.kerneltech.site" target="_blank">Kernel Tech</a> | 👨‍🏫 Instructor @<a href="https://www.codespark-eg.com" target="_blank">Code Spark</a>
+💻 Full Stack Web Developer (Laravel | Angular) | ⚡ Freelance Developer 
+  <br>
+  👨‍🏫 Instructor @<a href="https://www.codespark-eg.com" target="_blank">Code Spark</a> | 🚀 Technical Lead @<a href="https://www.kerneltech.site" target="_blank">Kernel Tech</a>
 </h3>
 
 <p align="center">
@@ -93,19 +95,29 @@ Developed RESTful APIs and managed database operations for a medical products co
 ### GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+      <td>
+        <!-- GitHub Overall Stats -->
+        <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="Abdelrahman GitHub Stats" />
-</p>
 
 ---
 
 ### <h3 align="left">Connect with me:</h3> 
 
-<p align="left"> <a href="https://twitter.com/abdelrahmanabdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> </p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> 
+  <a href="https://www.facebook.com/abdelrahman.abdelsmaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> 
+</p>
 
 ---
