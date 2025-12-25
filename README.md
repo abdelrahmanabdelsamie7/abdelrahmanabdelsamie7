@@ -48,6 +48,16 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 [barcodestore.store](https://barcodestore.store)  
 **Tech:** Laravel, Angular, MySQL
 
+**Teka X – Backend Developer**  
+- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
+[teka-x.store]https://teka-x.store)  
+**Tech:** PHP, Laravel, MySQL  
+
+**Ramen Pharma – Backend Developer**  
+- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
+[ramen-pharma.com]https://ramen-pharma.com)  
+**Tech:** PHP, Laravel, MySQL  
+
 **Wonder Makers Project – Backend Developer**  
 - Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
 [wondermakers-eg.com](https://wondermakers-eg.com)  
