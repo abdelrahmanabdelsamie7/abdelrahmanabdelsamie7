@@ -87,11 +87,11 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
----
+
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Abdelsamie" /></p>
+<p><img align="center" src="https://github-readme-stats-o9selufup-abdelrahmanabdelsamie7s-projects.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Abdelsamie" /></p>
 
 ![Abdelrahman GitHub Stats](https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical)
 
