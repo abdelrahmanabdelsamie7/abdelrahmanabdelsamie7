@@ -5,37 +5,25 @@
 
 <p align="center">
 Sohag, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrhmanabdelsamie@gmail.com</a> | 
-<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="_blank">LinkedIn</a> | 
-<a href="https://github.com/abdelrahmanabdelsamie7" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-### 📝 Summary
+### Summary
 Full Stack Web Developer with 4+ years of experience building **production-grade web applications** using Laravel and Angular.  
 Key contributor to educational platforms serving users in **Egypt and Saudi Arabia**, focusing on **clean architecture, scalable systems, and mentoring developers**.
 
 ---
 
-### 🌟 Highlights
+### Highlights
 - Mentored and instructed students through **real-world, production-focused curricula**.
 - Strong experience **bridging technical development and knowledge sharing**.
 - Led development of **educational and e-commerce platforms** from planning to deployment.
 
 ---
 
-### 🛠 Technical Skills
-
-**Backend:** PHP, Laravel, REST APIs  
-**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap  
-**Database:** MySQL, SQL  
-**Tools:** Git, GitHub, Docker, Postman, PHPUnit  
-**Concepts:** OOP, SOLID, MVC, Design Patterns, Clean Architecture  
-**Other Languages:** C++, Python  
-
----
-
-### 💼 Experience
+### Experience
 
 **Full Stack Developer & Instructor – Code Spark Platform** | Oct 2023 – Present  
 - Built and maintained a **scalable educational platform** with production deployments in Egypt & Saudi Arabia.  
@@ -53,7 +41,7 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 
 ---
 
-### 📂 Projects
+### Projects
 
 **Barcode Store – E-commerce Platform**  
 - Built and deployed a **production e-commerce system** with admin dashboard and order management.  
@@ -73,14 +61,21 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![PHPUnit](https://img.shields.io/badge/-PHPUnit-05122A?style=flat&logo=phpunit)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jwt)&nbsp;
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
 ---
 
