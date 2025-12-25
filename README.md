@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Abdelsamie</h1>
+<h1 align="center">👋 Hi, I'm Abdelrahman Abdelsamie</h1>
 <h3 align="center">
-💻 Full-Stack Web Developer (Laravel | Angular) | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Developer | 🚀 Technical Lead @ Kernel Tech
+Full-Stack Web Developer (Laravel | Angular) | 👨‍🏫 Instructor @ <a href="https://www.codespark-eg.com" target="blank"> Code Spark </a> | ⚡ Freelance Developer | 🚀 Technical Lead @ Kernel Tech
 </h3>
 
 - [cite_start]🔭 I recently finished building **Barcode Store - E-commerce Platform** [cite: 25, 27] (Laravel, Angular, MySQL) [cite_start]– deployed and serving customers[cite: 27].
