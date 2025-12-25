@@ -92,18 +92,18 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 ### 📊 GitHub Stats (All-in-One)
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="Abdelrahman GitHub Stats" />
-</p>
-
-<p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="Abdelrahman GitHub Stats" />
+</p>
+
+<p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eta-two-74.vercel.app/?user=abdelrahmanabdelsamie7&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
