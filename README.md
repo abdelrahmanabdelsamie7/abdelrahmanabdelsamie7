@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Abdelsamie</h1>
 <h3 align="center">
-💻 Full-Stack Web Developer | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Angular Developer | 🚀 Founder @ <a href="https://kerneltech.site" target="_blank">Kernel Tech</a>
+💻 Full-Stack Web Developer (Laravel | Angular) | 👨‍🏫 Instructor @ Code Spark | ⚡ Freelance Developer | 🚀 Technical Lead @ Kernel Tech
 </h3>
 
-- 🔭 I recently finished building [Barcode Store – An advanced E-commerce platform for clothing](https://barcodestore.store) – focusing on a seamless user experience and modern UI.  
-- 🚧 I’m currently working on **Code Spark Academy LMS** – a learning management system for managing courses, students, and instructors.  
-- 🌱 I’m currently learning **Angular, Laravel, REST API integration, and Authentication with JWT.**  
-- 👯 I’m looking to collaborate on [MediCare](https://github.com/abdelrahmanabdelsamie7/MediCare) – A smart healthcare platform connecting patients and doctors.  
-- 🤝 I’m looking for help with **Turning business ideas into real web apps** – e-commerce, portfolios, booking systems, and more.  
-- 👨‍💻 All of my projects are available on my [Portfolio Website](https://abdelrahmanabdelsamie.netlify.app/Hero)  
-- 📝 I regularly write articles – *(coming soon 😉)*  
-- 💬 Ask me about **Angular, TypeScript, Front-End Architecture, Teaching Methods.**  
-- 📫 Reach me at **abdelrhmanabdelsamie@gmail.com**  
-- 📄 Know about my experiences on [My Resume](https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing)  
-- ⚡ Fun fact: **I explain programming concepts better than I explain memes 😄**
+- [cite_start]🔭 I recently finished building **Barcode Store - E-commerce Platform** [cite: 25, 27] (Laravel, Angular, MySQL) [cite_start]– deployed and serving customers[cite: 27].
+- [cite_start]🚧 I’m currently working on **Code Spark Platform** – scaling features, including authentication, roles & permissions, and course management for production deployment in Egypt & Saudi Arabia[cite: 16, 17].
+- I’m looking to collaborate on [MediCare](https://github.com/abdelrahmanabdelsamie7/MediCare) – A smart healthcare platform connecting patients and doctors.  
+- I’m looking for help with **Turning business ideas into real web apps** – e-commerce, portfolios, booking systems, and more.  
+- All of my projects are available on my [Portfolio Website](https://abdelrahmanabdelsamie.netlify.app/Hero)  
+- I regularly write articles – *(coming soon 😉)*  
+- Ask me about **Laravel, Angular, TypeScript, Clean Architecture, SOLID Principles, and developing educational platforms.**
+- Reach me at **abdelrhmanabdelsamie@gmail.com**  
+- Know about my experiences on [My Resume](https://drive.google.com/drive/folders/1o73gQbrTLvcHF2vKabBPo-QZxddmV6fD?usp=sharing)  
+- Fun fact: **I explain programming concepts better than I explain memes 😄**
 
 ---
 
@@ -25,8 +24,6 @@
 <a href="https://instagram.com/abdelrahman_marey98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@AbdelrhmanAbdelsamie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
