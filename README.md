@@ -4,7 +4,7 @@
   | ⚡Freelance Developer
 </h3>
 
-- [cite_start]🔭 I recently finished building **Barcode Store - E-commerce Platform** [cite: 25, 27] (Laravel, Angular, MySQL) [cite_start]– deployed and serving customers[cite: 27].
+- I recently finished building **Barcode Store - E-commerce Platform** [cite: 25, 27] (Laravel, Angular, MySQL) [cite_start]– deployed and serving customers[cite: 27].
 - [cite_start]🚧 I’m currently working on **Code Spark Platform** – scaling features, including authentication, roles & permissions, and course management for production deployment in Egypt & Saudi Arabia[cite: 16, 17].
 - I’m looking to collaborate on [MediCare](https://github.com/abdelrahmanabdelsamie7/MediCare) – A smart healthcare platform connecting patients and doctors.  
 - I’m looking for help with **Turning business ideas into real web apps** – e-commerce, portfolios, booking systems, and more.  
