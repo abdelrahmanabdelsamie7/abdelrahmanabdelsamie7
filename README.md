@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-Sohag, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrhmanabdelsamie@gmail.com</a> | 
+Sohag, Egypt | Phone: +20 155 504 2432 | Email: <a href="mailto:abdelrhmanabdelsamie@gmail.com">abdelrahmanabdelsamie@gmail.com</a> | 
 <a href="https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/" target="_blank">LinkedIn</a>
 </p>
 
@@ -50,12 +50,12 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 
 **Teka X – Backend Developer**  
 - Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
-[teka-x.store]https://teka-x.store)  
+[teka-x.store](https://teka-x.store)  
 **Tech:** PHP, Laravel, MySQL  
 
 **Ramen Pharma – Backend Developer**  
 - Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
-[ramen-pharma.com]https://ramen-pharma.com)  
+[ramen-pharma.com](https://ramen-pharma.com)  
 **Tech:** PHP, Laravel, MySQL  
 
 **Wonder Makers Project – Backend Developer**  
@@ -87,12 +87,35 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
+---
 
+### 📊 GitHub Stats (All-in-One)
 
-### 📊 GitHub Stats
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical" alt="Abdelrahman GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs?username=abdelrahmanabdelsamie7" alt="Abdelrahman-Abdelsamie" /></p>
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Abdelrahman GitHub Stats](https://github-readme-stats-eta-two-74.vercel.app/api?username=abdelrahmanabdelsamie7&show_icons=true&theme=radical)
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanabdelsamie7&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats-eta-two-74.vercel.app/api/top-langs/?username=abdelrahmanabdelsamie7&layout=compact&theme=radical)
+<p align="center">
+  <!-- Most Used Repo -->
+  <img src="https://github-readme-stats-eta-two-74.vercel.app/api/pin/?username=abdelrahmanabdelsamie7&repo=barcodestore.store&theme=radical" alt="Most Used Repo" />
+</p>
+
+---
+
+### 🔥 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-abdelsamie-hussain-177021221/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/abdelrahmanabdelsamie7)  
+[![Code Spark](https://img.shields.io/badge/-CodeSpark-05122A?style=flat&logo=codeigniter)](https://www.codespark-eg.com)  
+[![Kernel Tech](https://img.shields.io/badge/-KernelTech-05122A?style=flat&logo=visual-studio)](https://www.kerneltech.site)
