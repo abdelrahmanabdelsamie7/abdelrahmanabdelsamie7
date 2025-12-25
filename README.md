@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman Abdelsamie Hussain</h1>
 <h3 align="center">
-💻 Full Stack Web Developer (Laravel | Angular) | 🚀 Technical Lead @ <a href="https://www.kerneltech.site" target="_blank">Kernel Tech</a> | 👨‍🏫 Instructor @ <a href="https://www.codespark-eg.com" target="_blank">Code Spark</a>
+💻 Full Stack Web Developer (Laravel | Angular) | 🚀 Technical Lead @<a href="https://www.kerneltech.site" target="_blank">Kernel Tech</a> | 👨‍🏫 Instructor @<a href="https://www.codespark-eg.com" target="_blank">Code Spark</a>
 </h3>
 
 <p align="center">
@@ -43,25 +43,26 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 
 ### Projects
 
-**Barcode Store – E-commerce Platform**  
-- Built and deployed a **production e-commerce system** with admin dashboard and order management.  
-[barcodestore.store](https://barcodestore.store)  
-**Tech:** Laravel, Angular, MySQL
 
-**Teka X – Backend Developer**  
-- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
+**Barcode Store – E-commerce Platform**  
+Built and deployed a production e-commerce system specializing in clothing with multiple product variants. Implemented backend APIs and admin dashboard for order management using Angular.  
+[barcodestore.store](https://barcodestore.store)  
+**Tech:** Laravel, Angular, MySQL  
+
+**Teka X – E-commerce Platform (Backend Developer)**  
+Developed RESTful APIs and managed database operations for a general online store (products can include clothing, electronics, perfumes, etc.). Integrated backend with frontend.  
 [teka-x.store](https://teka-x.store)  
+**Tech:** PHP, Laravel, MySQL, Angular, Signals
+
+**Wonder Makers Project – Engineering Company (Backend Developer)**  
+Developed RESTful APIs and managed database operations for an engineering company. Integrated backend with frontend to support company operations and workflow.  
+[wondermakers-eg.com](https://wondermakers-eg.com)  
 **Tech:** PHP, Laravel, MySQL  
 
-**Ramen Pharma – Backend Developer**  
-- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
+**Ramen Pharma – Medical Products Company (Backend Developer)**  
+Developed RESTful APIs and managed database operations for a medical products company. Implemented features to track product availability in specific pharmacies via map integration.  
 [ramen-pharma.com](https://ramen-pharma.com)  
 **Tech:** PHP, Laravel, MySQL  
-
-**Wonder Makers Project – Backend Developer**  
-- Developed **RESTful APIs** & managed database operations using Laravel/MySQL; integrated backend with frontend.  
-[wondermakers-eg.com](https://wondermakers-eg.com)  
-**Tech:** PHP, Laravel, MySQL
 
 ---
 
@@ -89,7 +90,7 @@ Key contributor to educational platforms serving users in **Egypt and Saudi Arab
 
 ---
 
-### 📊 GitHub Stats (All-in-One)
+### GitHub Stats
 
 <p align="center">
   <!-- Top Languages -->
